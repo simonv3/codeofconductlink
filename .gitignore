@@ -1,7 +1,5 @@
 .env.dev
-.sass-cache
-*.DS_Store
 *.sqlite3*
 *.css
 *.css.map
-*__pycache__*
+__pycache__
